@@ -11,6 +11,8 @@ Ph.D. candidate in Computer Science, HKUST NLP Group.
 
 Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 
+[GitHub: Vicent0205](https://github.com/Vicent0205) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) | [X: @junteng88716710](https://twitter.com/junteng88716710)
+
 ## Education
 
 **Hong Kong University of Science and Technology**  
@@ -36,7 +38,17 @@ Research Intern, June-December 2023. Advisor: Prof. Yu Cheng.
 
 ## Publications
 
-See the [publication list]({{ '/publications/' | relative_url }}) and [Google Scholar](https://scholar.google.com/citations?user=tbK9jl4AAAAJ).
+{% include profile-publications.html %}
+
+[Publications page]({{ '/publications/' | relative_url }})
+
+## Skills and Research Expertise
+
+- Natural language processing and machine learning
+- Large language model reasoning and reinforcement learning
+- Vision-language model hallucination and chart understanding
+- Large language model truthfulness and interpretability
+- Foundation model evaluation and parameter-efficient adaptation
 
 ## Honors and Awards
 
