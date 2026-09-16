@@ -1,64 +1,43 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Junteng Liu
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Ph.D. candidate in Computer Science, HKUST NLP Group.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Hong Kong University of Science and Technology**  
+Ph.D. in Computer Science, 2024-present. Supervisor: Professor Junxian He.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Shanghai Jiao Tong University**  
+B.Eng., 2020-2024. Graduated June 2024. Undergraduate advisor: Professor Junxian He.
+
+## Research Interests
+
+Natural language processing and machine learning; LLM reasoning and reinforcement learning; hallucination in vision-language models; LLM truthfulness and interpretability.
+
+## Research Experience
+
+**MINIMAX**  
+Research Intern, starting February 2025.
+
+**Tencent WXG**  
+Research Intern, June-September 2024. Advisor: Zifei Shan.
+
+**Shanghai AI Lab**  
+Research Intern, June-December 2023. Advisor: Prof. Yu Cheng.
+
+## Publications
+
+See the [publication list]({{ '/publications/' | relative_url }}) and [Google Scholar](https://scholar.google.com/citations?user=tbK9jl4AAAAJ).
+
+## Honors and Awards
+
+Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
