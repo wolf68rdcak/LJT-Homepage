@@ -5,8 +5,8 @@ title_separator: '-'
 name: Junteng Liu
 description: 'Natural language processing, machine learning, and large language models.'
 url: https://wolf68rdcak.github.io
-baseurl: /academicpages.github.io
-repository: wolf68rdcak/academicpages.github.io
+baseurl: /LJT-Homepage
+repository: wolf68rdcak/LJT-Homepage
 author:
   avatar: https://github.com/Vicent0205.png
   name: Junteng Liu
